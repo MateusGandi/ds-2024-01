@@ -24,4 +24,4 @@ Os modelos de qualidade nesta Norma Internacional podem ser usados para identifi
 estabelecer requisitos, seus critérios de satisfação e as medidas correspondentes.”. 
 
 Certifique-se de que compreende a finalidade desta norma, em particular, o trecho acima. 
-Crie o arquivo entendendo.md no seu repositório da disciplina. Nele você deve documentar o que entendeu das duas normas acima, restrito ao objetivo, ao propósito, à missão da norma. Não inclui todos os detalhes que a norma estabelece ou suas orientações, mas para que servem, e o que elas preenchem? Na ausência delas, qual seriam os inconvenientes? Adicionalmente, ligue o conteúdo destas duas normas com a noção de design de software. 
+Crie o arquivo entendendo.md no seu repositório da disciplina. Nele você deve documentar o que entendeu das duas normas acima, restrito ao objetivo, ao propósito, à missão da norma. Não inclui todos os detalhes que a norma estabelece ou suas orientações, mas para que servem, e o que elas preenchem? Na ausência delas, qual seriam os inconvenientes? Adicionalmente, ligue o conteúdo destas duas normas com a noção de design de software.  
